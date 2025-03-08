@@ -1,0 +1,3 @@
+[submodule "boron-angular-sample"]
+	path = boron-angular-sample
+	url = https://github.com/willy34labs/boron-angular-sample.git
